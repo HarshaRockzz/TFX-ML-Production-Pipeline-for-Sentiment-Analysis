@@ -12,8 +12,8 @@ This project demonstrates how to build and deploy a production machine learning 
 ## Installation
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/HarshaRockzz/your-repo.git
-    cd your-repo
+    git clone https://github.com/HarshaRockzz/TFX-ML-Production-Pipeline-for-Sentiment-Analysis.git
+    cd TFX-ML-Production-Pipeline-for-Sentiment-Analysis
     ```
 
 2. **Install Required Packages**:
