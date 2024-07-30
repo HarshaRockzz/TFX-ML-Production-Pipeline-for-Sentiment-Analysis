@@ -1,7 +1,7 @@
 # TFX ML Production Pipeline for Sentiment Analysis
 
 ## Overview
-This project demonstrates how to build and deploy a production machine learning pipeline using TensorFlow Extended (TFX). The pipeline is designed for sentiment analysis of movie reviews, transforming raw text data into a trained model that can predict sentiment. 🎥📊
+This project demonstrates how to build and deploy a production machine learning pipeline using TensorFlow Extended (TFX) by using BERT model. The pipeline is designed for sentiment analysis of movie reviews, transforming raw text data into a trained model that can predict sentiment. 🎥📊
 
 ## Prerequisites
 - Python 3.x
